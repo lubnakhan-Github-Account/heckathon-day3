@@ -55,6 +55,7 @@ export default async function ProductCardDetails({searchParams }: {searchParams:
               </Button>
                 </Link>
                 </div>
+                
             </div>
           </div>
         </div>
