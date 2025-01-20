@@ -27,6 +27,8 @@ const res: Product[] =await client.fetch(` *[_type =='product']{
   colors  
  }`)
 
+ 
+
 
 
   return (
